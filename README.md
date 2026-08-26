@@ -2,7 +2,7 @@
 # {name}.youown.zone.id domain To obtain it, follow these steps: 
 
 
-1. Go to forfreenames.zone.id/steps
+1. Go to https://forfreenames.zone.id/steps
 2. Follow the steps.
 
 
